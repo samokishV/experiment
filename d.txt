@@ -1,1 +1,2 @@
 This is new logging module from dev-2
+With changes
